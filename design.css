@@ -1,0 +1,47 @@
+
+.styled-select {
+  
+    height: 50px;
+    float: right;
+    width: 100%;
+    margin-right: 10px;
+    margin-top: 2px;
+   
+}
+
+.styled-select select {
+    font-size: 34px;
+    border-radius: 0;
+    border: none;
+  margin-top: 10px;
+    width: 370px;
+    overflow: hidden;
+    padding-top: 5px;
+    height: 50px;
+    text-indent: 10px;
+   text-align: center;
+   
+  
+}
+
+.styled-select option.service-small {
+    font-size: 30px;
+    padding: 5px;
+    background: #5c5c5c;
+   
+}
+    .button{
+        margin-top:20px;
+        margin-left: 10px;
+    } 
+    h1{
+        color:red;
+       
+    }
+    button{
+        margin-left: 10px;
+    }
+ .list{
+     font-size: 30px;
+     color:black; background-color:skyblue;
+ }
